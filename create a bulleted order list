@@ -12,8 +12,15 @@
         <main> 
             <p>View more 
             <a href="#"> <img src="https://cdn.freecodecamp.org/curriculum/cat-photo-app/relaxing-cat.jpg"alt="Three kittens running towards the camera."></a></p>  
+           <p>Top 3 things cats hate:</p>
+            <ol>Top 3 things cats hate:
+                <li>Garfield</li>
+                <li>Sylvester</li>
+                <li>dogs</li>
+              </ol> 
+              <p>Things cats love:</p>
            
-            <ul>
+            <ul>Things cats love:
                 <li>milk</li>
                 <li>cheese</li>
                 <li>bread</li>
